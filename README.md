@@ -81,7 +81,8 @@
         - Variables
         - Data Types
         - Operators
-        - Statements and Loops
+        - Statements 
+        - Loops
         - Exception Handling
     - Advance
         - Event Loop
