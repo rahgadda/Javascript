@@ -1,7 +1,7 @@
 
-<input style="position: absolute; top: 20%;left: 4%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/01-Comments.html';" value="Back" />
+<input style="position: absolute; top: 20%;left: 10%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/01-Comments.html';" value="Back" />
 <input style="position: absolute; top: 20%;left: 50%;right: 50%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
-<input style="position: absolute; top: 20%;right: 4%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/03-DataTypes.html';" value="Next" />
+<input style="position: absolute; top: 20%;right: 10%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/03-DataTypes.html';" value="Next" />
 <br/><br/>
 
 ## Variables
