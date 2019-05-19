@@ -1,4 +1,4 @@
-# Name
+# My Learning Javascript
 ## Table of Content
 - [Overview](#Overview)
 - [History](#History)
