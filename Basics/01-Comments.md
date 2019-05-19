@@ -1,6 +1,6 @@
-<input style="position: absolute; top: 8%;left: 50%;right: 50%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
-<input style="position: absolute; top: 8%;right: 4%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/02-Variables.html';" value="Next" />
-<br/><br/><br/>
+<input style="position: absolute; top: 10%;left: 50%;right: 50%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
+<input style="position: absolute; top: 10%;right: 4%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/02-Variables.html';" value="Next" />
+<br/><br/>
 
 ## Comments
 - Comments are added with the purpose of making the source code easier for humans to understand. These are ignored by compilers and interpreters.
