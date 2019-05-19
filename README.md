@@ -1,9 +1,9 @@
 ## Table of Content
-- [Overview](#Overview)
-- [History](#History)
-- [Installation](#Installation)
-- [Modules](#Modules)
-- [Appendix](#Appendix)
+- [Overview](#overview)
+- [History](#history)
+- [Installation](#installation)
+- [Modules](#modules)
+- [Appendix](#appendix)
 
 ## Overview
 - Javascript is world’s most misunderstood language. It’s the only language where people don’t bother to learn before they use.
