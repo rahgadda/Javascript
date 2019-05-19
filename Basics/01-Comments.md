@@ -1,6 +1,6 @@
 ## Comments
 - Comments are added with the purpose of making the source code easier for humans to understand. These are ignored by compilers and interpreters.
-- Javascript supports two types of comments similar to Java Programing language.
+- Javascript supports two types of comments similar to Java Programing language.   
     `\\Single line comment`
     
     `/*`   
