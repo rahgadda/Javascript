@@ -1,5 +1,5 @@
-<input style="position: absolute; top: 10px;left: 50%;right: 50%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
-<input style="position: absolute; top: 10px;right: 0px;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/02-Variables.html';" value="Next" />
+<input style="position: absolute; top: 40px;left: 50%;right: 50%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
+<input style="position: absolute; top: 40px;right: 0px;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/02-Variables.html';" value="Next" />
 <br/><br/>
 
 ## Comments
