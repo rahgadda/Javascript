@@ -1,4 +1,7 @@
-[Home](https://rahgadda.github.io/Javascript)
+<input style="position: absolute; top: 0px;left: 50%;right: 50%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
+<input style="position: absolute; top: 0px;right: 0px;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/02-Variables.html';" value="Next" />
+<br/><br/>
+
 ## Comments
 - Comments are added with the purpose of making the source code easier for humans to understand. These are ignored by compilers and interpreters.
 - Javascript supports two types of comments similar to Java Programing language.   
@@ -9,5 +12,3 @@
     `Add other text in line 1`   
     `Add other text in line 2`   
     `*/`   
-
-[Next](https://rahgadda.github.io/Javascript/Basics/02-Variables.html)

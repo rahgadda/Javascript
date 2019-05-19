@@ -1,4 +1,8 @@
-<input type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
+
+<input style="position: absolute; top: 0px;left: 0px;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/01-Comments.html';" value="Back" />
+<input style="position: absolute; top: 0px;left: 50%;right: 50%;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
+<input style="position: absolute; top: 0px;right: 0px;" type="button" onclick="location.href='https://rahgadda.github.io/Javascript/Basics/03-DataTypes.html';" value="Next" />
+<br/><br/>
 
 ## Variables
 - Variables are used to store information. These are referenced and manipulated during execution of program.
@@ -13,6 +17,3 @@
        `console.log(r*12)   \\ Error - Uncaught ReferenceError: r is not defined`
     - The default value of any variable is **undefined**.
     - `var, const and let` keywords are used to declare a variable.
-    - 
-
-[Next](https://rahgadda.github.io/Javascript/03-DataTypes.html)
