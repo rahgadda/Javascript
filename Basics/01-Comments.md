@@ -10,4 +10,4 @@
     `Add other text in line 2`   
     `*/`   
 
-[Next](https://rahgadda.github.io/Javascript/02-Variables.html)
+[Next](https://rahgadda.github.io/Javascript/Basics/02-Variables.html)
