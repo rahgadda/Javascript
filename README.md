@@ -58,12 +58,25 @@
 
 ---
 ## Installation
+- There are multiple ways to start working with Javascript 
+    - Online IDE 
+        - [Codepen](https://codepen.io/)
+        - [Scrimba](http://scrimba.com)
+        - [JSfiddle](https://jsfiddle.net/)
+    - Browser Dev Tools
+        - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+        - [Firefox Dev Tools](https://developer.mozilla.org/en-US/docs/Tools)
+    - Server Environments
+        - [Nodejs](https://nodejs.org/en/)
+        - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
+        - [Java Nashorn](https://openjdk.java.net/projects/nashorn/)
+- This tutorial is based on `Visual Studio Code` and `Node.js`. I will be adding a separate tutorial both and will update references here. 
 
 ---
-
 ## Modules
-
+- There are multiple modules of the language that we have to go through to master Javascript Language. 
 ---
 ## Appendix
 - Reference
     - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+    - [Microsoft Vscode](https://code.visualstudio.com/)
