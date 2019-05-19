@@ -6,7 +6,8 @@
 - [Appendix](#appendix)
 
 ## Overview
-- As per [Douglas Crockford](https://www.crockford.com/javascript/javascript.html), Javascript is world’s most misunderstood language. It’s the only language where people don’t bother to learn before they use. The idea of this tutorial is to provide my perspective and knowledge on Javascript.
+- The idea of this tutorial is to provide my perspective and knowledge on Javascript.
+- As per [Douglas Crockford](https://www.crockford.com/javascript/javascript.html), Javascript is world’s most misunderstood language. It’s the only language where people don’t bother to learn before they use.
 - Javascript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions. It was developed to run on the client side of the Web Browser.
 - While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat.
 - Javascript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative styles.
