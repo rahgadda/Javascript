@@ -10,7 +10,7 @@
 - Javascript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions. It was developed to run on the client side of the Web Browser.
 - While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat.
 - Javascript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative styles.
-- Javascript borrows most of its syntax from Java, but also influenced by Awk, Perl, and Python. 
+- Javascript borrows most of its syntax from Java, but it is also influenced by Awk, Perl, and Python. 
 
 ---
 ## History
@@ -92,7 +92,7 @@
         - Modules
         - Regular Expressions
         - Memory Management
-    - Es6 and Beyond
+    - ES6 and Beyond
         - ES6
             - Data Types
                 - Let
