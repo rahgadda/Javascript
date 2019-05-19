@@ -75,6 +75,7 @@
 ---
 ## Modules
 - There are multiple modules of the language that we have to go through to master Javascript Language. 
+
 ---
 ## Appendix
 - Reference
