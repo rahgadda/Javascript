@@ -1,3 +1,4 @@
+[Home](https://rahgadda.github.io/Javascript)
 ## Comments
 - Comments are added with the purpose of making the source code easier for humans to understand. These are ignored by compilers and interpreters.
 - Javascript supports two types of comments similar to Java Programing language.   
@@ -8,3 +9,5 @@
     `Add other text in line 1`   
     `Add other text in line 2`   
     `*/`   
+
+[Next](https://rahgadda.github.io/Javascript/02-Variables.html)
