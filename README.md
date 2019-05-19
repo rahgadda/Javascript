@@ -86,8 +86,8 @@
         - Loops
         - Exception Handling
     - Advance
-        - Strict Mode
-        - Event Loop
+        - [Strict Mode](Advance/01-StrictMode.md)
+        - [Event Loop](Advance/EventLoop.md)
         - Objects
         - Arrays
         - Functions
