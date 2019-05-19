@@ -6,9 +6,11 @@
 - [Appendix](#Appendix)
 
 ## Overview
-- JavaScript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions. It was developed to run on the client side of the Web Browser.
+- Javascript is world’s most misunderstood language. It’s the only language where people don’t bother to learn before they use.
+- Javascript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions. It was developed to run on the client side of the Web Browser.
 - While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat.
-- JavaScript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative styles.
+- Javascript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative styles.
+- Javascript borrows most of its syntax from Java, but also influenced by Awk, Perl, and Python. 
 
 ---
 ## History
@@ -38,8 +40,8 @@
         Schema | Loose Typing and Object as first class values
         Perl | Regular Expression
 
-    - JavaScript's first code name was **Mocha**, later changed it to **LiveScript**, for trademark reasons. In early **December 1995, Sun licensed the trademark JavaScript to Netscape**. The language was renamed to its final name, JavaScript.
-    - During the same time Microsoft created a clone of JavaScript and called it as **JScript in 1996**. They planned to **replace the language with VBScript**.
+    - Javascript's first code name was **Mocha**, later changed it to **LiveScript**, for trademark reasons. In early **December 1995, Sun licensed the trademark Javascript to Netscape**. The language was renamed to its final name, Javascript.
+    - During the same time Microsoft created a clone of Javascript and called it as **JScript in 1996**. They planned to **replace the language with VBScript**.
     - Netscape alarmed with Microsoft development and submitted the language for standardization to **ECMA (European Computer Manufacturer’s Association) in 1998** and because of trademark issues, the standardized version of the language was stuck with the awkward name **ECMAScript**. Because of the power of Microsoft in ECMA, it allowed language to be created with bug and deliver. 
 
         Year | Name | Description
@@ -73,7 +75,50 @@
 
 ---
 ## Modules
-- There are multiple modules of the language that we have to go through to master Javascript Language. 
+- There are multiple modules of the language that we have to go through to master Javascript Language.
+    - Basic
+        - Comments
+        - Variables
+        - Data Types
+        - Operators
+        - Statements and Loops
+        - Exception Handling
+    - Advance
+        - Event Loop
+        - Objects
+        - Arrays
+        - Functions
+        - Modules
+        - Regular Expressions
+        - Memory Management
+    - Es6 and Beyond
+        - ES6
+            - Data Types
+                - Let
+                - Const
+                - Symbol
+                - Proxy
+                - Template Literals
+                - Multi-line Strings
+                - Destructing Assignment
+            - Data Structures
+                - Set
+                - Weak Set
+                - Map
+                - Weak Map 
+            - Loops
+                - For of
+                - Iterator
+                - Generator
+            - Object Enhancements
+                - Enhanced Object Literals
+                - Classes
+            - Functions
+                - Default Parameters
+                - Promises
+                - Arrow Functions
+            - Module
+                - Module Loader
 
 ---
 ## Appendix
