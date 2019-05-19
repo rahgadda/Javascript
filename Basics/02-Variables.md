@@ -1,4 +1,4 @@
-[Home](https://rahgadda.github.io/Javascript)
+<input type="button" onclick="location.href='https://rahgadda.github.io/Javascript';" value="Home" />
 
 ## Variables
 - Variables are used to store information. These are referenced and manipulated during execution of program.
