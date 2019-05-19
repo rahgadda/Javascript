@@ -77,7 +77,7 @@
 ## Modules
 - There are multiple modules of the language that we have to go through to master Javascript Language.
     - Basics
-        - Comments
+        - [Comments](Basics/01-Comments.md)
         - Variables
         - Data Types
         - Operators
