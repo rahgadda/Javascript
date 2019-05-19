@@ -85,6 +85,7 @@
         - Loops
         - Exception Handling
     - Advance
+        - Strict Mode
         - Event Loop
         - Objects
         - Arrays
