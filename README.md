@@ -10,6 +10,7 @@
 - JavaScript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions. It was developed to run on the client side of the Web Browser.
 - While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat.
 - JavaScript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative styles.
+
 ---
 ## History
 - Java and Javascript are two different programing languages, but they are entangled in evolution chain. To understand Javascript evolution, we have to start with Java.
@@ -59,6 +60,7 @@
 ## Installation
 
 ---
+
 ## Modules
 
 ---
