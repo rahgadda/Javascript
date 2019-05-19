@@ -71,7 +71,7 @@
         - [Nodejs](https://nodejs.org/en/)
         - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
         - [Java Nashorn](https://openjdk.java.net/projects/nashorn/)
-- This tutorial is based on `Visual Studio Code` and `Node.js`. I will be adding a separate tutorial both and will update references here. 
+- This tutorial is based on `Visual Studio Code` and `Node.js`. I will be adding a separate tutorial for both and will update references here. 
 
 ---
 ## Modules
