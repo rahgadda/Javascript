@@ -82,7 +82,7 @@
         - [Variables](Basics/02-Variables.md)
         - Data Types
         - Operators
-        - Statements 
+        - Statements
         - Loops
         - Exception Handling
     - Advance
