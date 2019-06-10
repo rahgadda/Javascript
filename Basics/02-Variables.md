@@ -12,8 +12,18 @@
     - The **($)** name is commonly used as a shortcut to the **function document.getElementById()**. A very common use of this naming convention is found in jQuery library.
     - Subsequent characters can be letters, digits, (_), or ($).
     - Variable names are case sensitive.
+    - Variable names support Unicode character set.   
+      `var sí = true;`   
+      `var π = 3.14;`
     - There's no limit to the length of the variable name.
     - You cannot use a variable without declaration or assignment.   
        `console.log(r*12)   \\ Error - Uncaught ReferenceError: r is not defined`
     - The default value of any variable is **undefined**.
     - `var, const and let` keywords are used to declare a variable.
+- Styling
+   - **camelCase** will be used for naming variables, objects, functions, and instances.
+   - **PascalCase** will be used for constructors or classes.
+   - **UPPERCASE** will be used for naming Global and Constants variables 
+   - Use a leading **underscore (_)** to name private properties.
+   - Use **'use strict';** mode to avoid unsafe features. In this mode it is an error to assign a value to an undeclared variable.
+   - Use **JSHint** for suggestions.
