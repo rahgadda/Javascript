@@ -6,7 +6,7 @@
 
 ## Variables
 - Variables are used to store information. These are referenced and manipulated during execution of program.
-- Javascript has  below predefined rules w.r.t variable names
+- Javascript has below predefined rules w.r.t variable names
     - Name must start with a letter, underscore (_), or dollar sign ($).
     - Names starting with **(_)** represents object's property or method that is **private**.
     - The **($)** name is commonly used as a shortcut to the **function document.getElementById()**. A very common use of this naming convention is found in jQuery library.

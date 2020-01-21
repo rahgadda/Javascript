@@ -3,4 +3,8 @@
 <br/><br/>
 
 ## Var
+- This keyword is used for variable declaration.
+- The scope of a variable declared with **var** is its current execution context.
+- If you re-declare a JavaScript variable, it will not lose its value.
+- Assigning a value to an undeclared variable implicitly creates it as a global variable.
 - 
